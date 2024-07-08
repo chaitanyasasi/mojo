@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/mojo/static/js/main.28185021.js",
+    "index.html": "/mojo/index.html",
+    "main.28185021.js.map": "/mojo/static/js/main.28185021.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.28185021.js"
+  ]
+}
